@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(139,26,26);
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+}
+
+strong{
+    font-size: 18px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: rgb(255,180,0);
+    text-align: left;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+}
+
+p {
+    margin: 1em auto;
+    text-align: left;
+  }
+
+.main {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.movie-info {
+    width: 50%;
+    height: 50%;
+}
+
+.video-link{
+    width: 50%;
+    height: 50%;
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
+  
+a:visited {
+    color: rgb(195, 0, 255);
+}
+  
+a:hover {
+    color: rgb(0, 0, 255);
+}
+  
+a:active {
+    color: rgb(0, 0, 255);
+}
